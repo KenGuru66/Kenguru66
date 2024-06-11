@@ -17,7 +17,7 @@
 
 <br />
 
-Hello! My name is Sergey. I'm learning programming. I'll be glad to meet you!
+My name is Sergey. I'm learning programming. I'll be glad to meet you!
 
 <br />
 
